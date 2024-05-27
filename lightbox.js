@@ -7,8 +7,9 @@ function includepopupHTML() {
      <i id="rightarrow" class="fa-solid fa-angle-left"></i>
      <img
        src="img/slider (1).jpg"
-       height="80%"
-       width="80% "
+       width="100%"
+       max-width="1280px"
+       hight="60%"
        alt=""
        id="mainppimage"
      />
